@@ -274,4 +274,4 @@ We welcome contributions! Please follow these steps:
 
 **Ready to enter Blackwood Manor? The mystery awaits...**
 
-*"In the shadows of the past, two detectives must work together to uncover a truth that has been hidden for decades. Will you solve the mystery of Alistair Blackwood, or will the manor claim you as its next victims?"*
+*This project was completed as a group project for the Computer Games Development coursework at TH Rosenheim*
